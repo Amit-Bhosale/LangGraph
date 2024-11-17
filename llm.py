@@ -6,7 +6,7 @@ llm = ChatGoogleGenerativeAI(
     temperature=0,
     max_tokens=None,
     timeout=None,
-    api_key="AIzaSyDT_TPxO9bGbJAsBWS2vA4R_X9ancCVzS0",
+    api_key="",
     max_retries=2,
     # other params...
 )
